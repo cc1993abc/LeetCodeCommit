@@ -1,0 +1,11 @@
+C:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\bin\Debug\netcoreapp2.1\hackerrankCommit.deps.json
+C:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\bin\Debug\netcoreapp2.1\hackerrankCommit.runtimeconfig.json
+C:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\bin\Debug\netcoreapp2.1\hackerrankCommit.runtimeconfig.dev.json
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\bin\Debug\netcoreapp2.1\hackerrankCommit.dll
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\bin\Debug\netcoreapp2.1\hackerrankCommit.pdb
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.csprojAssemblyReference.cache
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.csproj.CoreCompileInputs.cache
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.AssemblyInfoInputs.cache
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.AssemblyInfo.cs
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.dll
+c:\Users\wa03777\Desktop\新建文件夹\hackerrankCommit\obj\Debug\netcoreapp2.1\hackerrankCommit.pdb
