@@ -14,18 +14,17 @@ namespace hackerrankCommit
             string s1 = Console.ReadLine();
             s3 = string.Empty;
             s4 = string.Empty;
+            int index = 0;
             foreach (var s in s1)
             {
-                if(s1.IndexOf(s) % 2 == 0){
+                if(index % 2 == 0){
                     s3 += s1;
                 }
                 s4 +=s1;
+                index++;
             }
-            System.Console.WriteLine(string.Format("{0}  {1}",s3,s4));
-            s3 = string.Empty;
-            s4 = string.Empty;   
+            System.Console.WriteLine(string.Format("{0}  {1}",s3,s4));  
             }
-            Console.WriteLine("Hello World!");
         }
     }
 }
