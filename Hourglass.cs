@@ -2,7 +2,7 @@ using System;
 
 namespace hackerrankCommit
 {
-    class Class_Hourglass
+    partial class Class_Hourglass
     {
         public static int HourGlass()
         {
