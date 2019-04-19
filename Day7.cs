@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
-namespace hackerrankCommit
+namespace Day7
 {
-    class Program
+    class Day7
     {
-        static void Main(string[] args)
+        public static void cc()
         {
             int n = 5;
             string s3 = string.Empty;
