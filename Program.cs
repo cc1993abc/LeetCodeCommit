@@ -7,7 +7,7 @@ namespace hackerrankCommit
         //选择要执行的控制台程序
         static void Main(string[] args)
         {
-            Class_Hourglass.left_rotation();            
+            Class_Hourglass.Sparse_Arrays();            
         }
     }
 }
