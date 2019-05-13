@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wa03777\\.nuget\\packages\\": {},
+    "C:\\Users\\陈超\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wa03777\\Desktop\\新建文件夹\\hackerrankCommit\\hackerrankCommit.csproj",
+      "projectUniqueName": "c:\\Users\\陈超\\Desktop\\Hacker\\hackerrankCommit\\hackerrankCommit.csproj",
       "projectName": "hackerrankCommit",
-      "projectPath": "C:\\Users\\wa03777\\Desktop\\新建文件夹\\hackerrankCommit\\hackerrankCommit.csproj",
-      "packagesPath": "C:\\Users\\wa03777\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wa03777\\Desktop\\新建文件夹\\hackerrankCommit\\obj\\",
+      "projectPath": "c:\\Users\\陈超\\Desktop\\Hacker\\hackerrankCommit\\hackerrankCommit.csproj",
+      "packagesPath": "C:\\Users\\陈超\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\陈超\\Desktop\\Hacker\\hackerrankCommit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wa03777\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\陈超\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
